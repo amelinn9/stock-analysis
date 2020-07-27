@@ -26,7 +26,7 @@ In the original script, the codes ran in 0.7617188 seconds for 2017 and 0.738281
 
 In the refactored script, the codes ran in 0.1210938 seconds for 2017 and 0.1171875 seconds for 2018. The refactored script ran about 6 times faster than the original script. This shows that refactoring the script improved code performance.
 
-<img src="resources/OGcode.PNG" width="465"> <img src="resources/refactoredCode.PNG" width="465">
+<img src="resources/OGcode.PNG" width="455"> <img src="resources/refactoredCode.PNG" width="455">
 
 This was accomplished by making some minor changes to the original code. The refactored code only had to run once to deliver the analysis, while, the original code had to loop over the whole dataset for each ticker, resulting in 12 loops. The refactored code looped through stocks data, read and stored all of the values (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices) from each row before outputting the values made it much more efficient than having to loop through the whole dataset multiple times.
 
