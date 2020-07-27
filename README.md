@@ -6,7 +6,7 @@ Steve, a new finance graduate, is tasked with looking into DAQO stocks for his p
 ## Results
 ### Stock Analysis
 
-
+![All Stocks Analysis 2017](resources/allstocksanalysis2017.png)
 
 The stocks in the analysis did relatively well in 2017. There was only one stock that had a negative return (TERP, -7.2%). All other stocks had positive returns. In 2018, majority of the stocks did badly. There were only two stocks that did well (ENPH and RUN, 81.9% and 84.0% respectively). The rest of the stocks had negative returns. Based on the analysis, DAQO stocks had overwhelmingly positive returns at 199.4% with about 35.8 million traded in 2017. In 2018, however, DAQO stocks took a plunge with a return of -62.6% with roughly 107.8 million traded. We can conclude from the analysis that stocks ENPH and RUN were successful with their returns on both years and therefore, would be a good choice to invest in.
 
